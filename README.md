@@ -64,7 +64,7 @@ ___
 
 ``` 2023-06-18 15:30:00: User7 performed action D```
 
-- So, the attacker crafts a new modified file that includes the original file data, padding and the new data he wants to append:
+- So, the attacker finds the length of the secret key (using brute force) and crafts a new modified file that includes the original file data, padding and the new data he wants to append:
 
 ```
     2023-06-16 12:00:00: User1 logged in
