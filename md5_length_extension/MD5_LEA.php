@@ -137,7 +137,7 @@ class MD5State {
 }
 
 
-    $file_path = "path_to_file\\logs.txt";
+    $file_path = "path/to/your/logs.txt";
     $secret_length = strlen("secret");
     $append = "\n\n2023-06-18 15:30:00: User7 performed action D";
 
