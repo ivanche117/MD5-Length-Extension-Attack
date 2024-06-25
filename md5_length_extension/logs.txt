@@ -1,0 +1,18 @@
+2023-06-16 12:00:00: User1 logged in
+2023-06-16 12:05:00: User1 performed action A
+2023-06-16 12:10:00: User1 logged out
+
+2023-06-17 13:04:02: User2 logged in
+2023-06-17 13:07:00: User1 logged in
+2023-06-17 13:11:00: User2 performed action B
+2023-06-17 13:13:40: User2 performed action C
+2023-06-17 13:14:00: User1 updated profile
+2023-06-17 13:23:02: User2 logged out
+2023-06-17 13:27:00: User1 logged out
+
+2023-06-18 12:04:20: User7 logged in
+2023-06-18 13:16:34: User3 logged in
+2023-06-18 14:07:00: User4 logged in
+2023-06-18 14:08:00: User4 viewed dashboard
+2023-06-18 14:15:00: User4 logged out
+
